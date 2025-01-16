@@ -1,0 +1,6 @@
+*.test
+*.out
+*.exe
+/bin/
+*.log
+/data/
