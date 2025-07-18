@@ -41,3 +41,4 @@ func Decode(s string) (uint64, error) {
 	}
 	return n, nil
 }
+
