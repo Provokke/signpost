@@ -52,3 +52,4 @@ func TestEncodeIsOrderedByLengthThenValue(t *testing.T) {
 		previous = length
 	}
 }
+
