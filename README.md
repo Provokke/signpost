@@ -73,3 +73,4 @@ go test -race -count=1 ./...
 - Base62: known values, round trips up to the largest uint64, bad input, ordering (4).
 - Store: sequential ids, deduplication, aliases, URL validation, ttl and expiry, alias reuse after expiry, deletes, reopening from disk, a truncated tail, a corrupt middle, compaction, listing and paging, concurrent creates (16).
 - API: create and redirect, aliases and ttl, validation errors, conflicts, hit counting, `HEAD`, 404s, delete, list, health, method checks (12).
+
