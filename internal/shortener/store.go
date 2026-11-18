@@ -401,4 +401,3 @@ func (s *Store) Close() error {
 	}
 	return s.file.Close()
 }
-

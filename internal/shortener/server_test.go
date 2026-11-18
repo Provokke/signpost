@@ -200,4 +200,3 @@ func TestMethodNotAllowed(t *testing.T) {
 		t.Fatalf("status %d, want 405", code)
 	}
 }
-
